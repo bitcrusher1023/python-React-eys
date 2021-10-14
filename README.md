@@ -1,9 +1,5 @@
 # <img align='center' src="./doc/static/images/brand_dark.jpg">
 
-[![DOI](https://zenodo.org/badge/392558472.svg)](https://zenodo.org/badge/latestdoi/392558472)
-![Release](https://img.shields.io/github/v/release/r05323028/eyes?include_prereleases)
-![License](https://img.shields.io/github/license/r05323028/eyes)
-
 eyes is a **Public Opinion Mining System** focusing on taiwanese forums such as [PTT](https://www.ptt.cc/bbs/hotboards.html), [Dcard](https://www.dcard.tw/f).
 
 ## Features
@@ -17,6 +13,7 @@ eyes is a **Public Opinion Mining System** focusing on taiwanese forums such as 
 
 ![Articles Dashboard](./doc/static/images/articles_dashboard.png)
 ![Entities Dashboard](./doc/static/images/entities_dashboard.png)
+![Entity Dashboard](./doc/static/images/entity_dashboard.png)
 
 ## Architecture
 
